@@ -1,0 +1,9 @@
+C:\Users\Carlos\Desktop\UPC Castefa\2\SO\Semana 6\version 2\cliente inicial\obj\x86\Debug\Proyecto_V1.exe
+C:\Users\Carlos\Desktop\UPC Castefa\2\SO\Semana 6\version 2\cliente inicial\obj\x86\Debug\Proyecto_V1.pdb
+C:\Users\Carlos\Desktop\UPC Castefa\2\SO\Semana 6\version 2\cliente inicial\bin\Debug\Proyecto_V1.exe
+C:\Users\Carlos\Desktop\UPC Castefa\2\SO\Semana 6\version 2\cliente inicial\bin\Debug\Proyecto_V1.pdb
+C:\Users\Carlos\Desktop\UPC Castefa\2\SO\Semana 6\version 2\cliente inicial\obj\x86\Debug\Proyecto_V1.Form1.resources
+C:\Users\Carlos\Desktop\UPC Castefa\2\SO\Semana 6\version 2\cliente inicial\obj\x86\Debug\Proyecto_V1.Form2.resources
+C:\Users\Carlos\Desktop\UPC Castefa\2\SO\Semana 6\version 2\cliente inicial\obj\x86\Debug\Proyecto_V1.Properties.Resources.resources
+C:\Users\Carlos\Desktop\UPC Castefa\2\SO\Semana 6\version 2\cliente inicial\obj\x86\Debug\Proyecto_V2.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\UPC Castefa\2\SO\Semana 6\version 2\cliente inicial\obj\x86\Debug\Proyecto_V2.csprojResolveAssemblyReference.cache
